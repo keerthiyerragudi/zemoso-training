@@ -1,0 +1,1 @@
+Git development began in April 2005 after many developers of the Linux kernel gave up access to BitKeeper, a proprietary source control management system that had previously been used to maintain the project. [...] 
